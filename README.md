@@ -10,9 +10,9 @@ link to each members respective GitHub profile
 -->
 Developed by: 
 - [Ndizeye Tschesquis](https://github.com/cheskynd) - `Berea College`
-- [member2](https://github.com/cbaker6) - `STUDENTS_UNIVERSITY` 
-- [member3](https://github.com/cbaker6) - `STUDENTS_UNIVERSITY` 
-- [member4](https://github.com/cbaker6) - `STUDENTS_UNIVERSITY`
+- [Renato Diaz](https://github.com/NrgNinja) - `University of Central Florida` 
+- [Tony Ramirez](https://github.com/tonypacheco) - `University of Kentucky` 
+- [Daniela Rodriguez](https://github.com/danirodrx) - `Florida International University`
 
 ## Description
 <!--
