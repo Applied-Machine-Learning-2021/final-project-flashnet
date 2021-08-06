@@ -15,7 +15,7 @@ link to each members respective GitHub profile
 Developed by: 
 - [Ndizeye Tschesquis](https://github.com/cheskynd) - `Berea College`
 - [Renato Diaz](https://github.com/NrgNinja) - `University of Central Florida` 
-- [Tony Ramirez](https://github.com/tonypacheco232) - `University of Kentucky` 
+- [Tony Ramirez](https://github.com/tonypacheco223) - `University of Kentucky` 
 - [Daniela Rodriguez](https://github.com/danirodrx) - `Florida International University`
 - [Vincent Davis](https://github.com/davisv7) - `University of Kentucky`
 
