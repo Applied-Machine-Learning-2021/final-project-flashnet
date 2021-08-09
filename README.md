@@ -47,8 +47,9 @@ The link below contains 100 filter snapshots of the lightning network. To view o
 https://drive.google.com/file/d/17w4L2yzb2KgSOLRrqQbH84N2UjBytpvu/view?usp=sharing
 
 ## 2. Making an environment for our model:
-We then created an OpenAI gym environment so that our agent could "play on" and train as it "plays the game" or progressively learns.
+The environment allowed the reinforcement agent to learn from different scenarios and calculate the change of the maximum betweenness centrality for each move made by the agent, which is the reward. As any game, a character has multiple ways to begin a game. In our case, the agent could learn from the entire snapshot which had thousands of nodes. Or a subgraph to maximize the learning rate of the agent. The user can also increase the number of episodes. The more episodes are ran the more the agent will learn from the data. The picture below demonstrates a general idea how the agent interacts with the agent.
 ![Google AMLI Final Presentation ](https://user-images.githubusercontent.com/81537387/128651863-9dc011a0-d54c-44c4-a3bd-214d83114183.jpg)
+
 
 
 ## 3. Graph Convolutional Network and Deep Graph Library:
