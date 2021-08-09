@@ -20,13 +20,13 @@ Developed by:
 - [Vincent Davis](https://github.com/davisv7) - `University of Kentucky`
 
 # Introducing FlashNet
-A service that provides a solution to utilizing the Lightning Network to its utmost potential. 
+A service that provides a solution to utilizing the Lightning Network to its utmost potential.
 
 ## Description
 <!--
 Give a short description on what your project accomplishes and what tools is uses. In addition, you can drop screenshots directly into your README file to add them to your README. Take these from your presentations.
 -->
-A reinforcement agent is used to locate the best node placement in the Bitcoin Lightning Network so that we may lie on the greatest number of cheapest paths. To accomplish this goal a graph convolution network is used to aggregate the features of each node neighbors up to three layers. Open AI gym was the environment for the reinforcement agent, Critical Actor, to interact based on the given inputs. In other words, BibBOLT may lead to a more viable solution to helping the Lightning Network grow and benefit Bitcoin as a trusted worldwide cryptocurrency. By perfecting the Lightning Network, we can benefit by getting overall lower fees and faster transactions on the main Bitcoin blockchain. This also helps to decrease the average cost of the network.
+A reinforcement agent is used to locate the best node placement in the Bitcoin Lightning Network so that we may lie on the greatest number of cheapest paths. To accomplish this goal a graph convolution network is used to aggregate the features of each node neighbors up to three layers. Open AI gym was the environment for the reinforcement agent, Critical Actor, to interact based on the given inputs. In other words, mBIB-BOLT may lead to a more viable solution to helping the Lightning Network grow and benefit Bitcoin as a trusted worldwide cryptocurrency. By perfecting the Lightning Network, we can benefit by getting overall lower fees and faster transactions on the main Bitcoin blockchain. This also helps to decrease the average cost of the network.
 
 
 # Check out the LIVE Lightning Network [here](https://explorer.acinq.co/)!
