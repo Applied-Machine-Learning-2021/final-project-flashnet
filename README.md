@@ -72,8 +72,8 @@ Give details on how to install fork and install your project. You can get all of
 # Questions? 
 Please Feel Free To Contact:
 - [Vincent Davis](https://github.com/davisv7)
-- [Tony Ramirez] : tpra223@uky.edu 
-- [Ndizeye Tschesquis] : tschesquisn@berea.edu)
+- Tony Ramirez : tpra223@uky.edu 
+- Ndizeye Tschesquis : tschesquisn@berea.edu
 
 Helpful [forum](https://www.reddit.com/r/TheLightningNetwork/) for any additional questions.
 
