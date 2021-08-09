@@ -42,6 +42,8 @@ Node|Edges
 
 ## 2. Making an environment for our model:
 We then created an OpenAI gym environment so that our agent could "play on" and train as it "plays the game" or progressively learns.
+![Google AMLI Final Presentation ](https://user-images.githubusercontent.com/81537387/128651863-9dc011a0-d54c-44c4-a3bd-214d83114183.jpg)
+
 
 ## 3. Graph Convolutional Network and Deep Graph Library:
 GCN is our model that comes from DGL, a Python package, and allows the program to train on the same agent (the Actor Critic) on varying sizes of graphs. The model is initially fed with four features: betweenness centrality, degree centrality, closeness centrality, and edge vector; and passed into a message passing system that makes up the network of the model to collect feature information about the nodes neighbors. This ends in a resulting feature vector that characterizes the node in context of location and the network to then pass through the GCN for training. It is then aggregated through summation and the output is passed into a linear layer with a 'relu' function.
@@ -50,6 +52,8 @@ GCN is our model that comes from DGL, a Python package, and allows the program t
 
 ## 4. ActorCritic:
 This is our agent that will perform the act of playing our game. The Actor aspect of the agent makes a decision, and the Critic aspect of the agent determines whether that action was a good one or bad one based on the reward of that action. The critic calculates a TD-Error (Temporal Difference Error), the difference between the expected and acutal reward. The TD-Error is passed to both the actor and critic aspects that helps enables them to learn.
+![Google AMLI Final Presentation  (1)](https://user-images.githubusercontent.com/81537387/128651908-5ab9634b-9b30-42ec-8b80-17970b93b037.jpg)
+
 
 ## Usage instructions
 <!--
