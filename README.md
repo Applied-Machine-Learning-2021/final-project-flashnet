@@ -40,7 +40,10 @@ A reinforcement agent is used to locate the best node placement in the Bitcoin L
 Three months prior the project, a node was activated in the lightning network and hourly snapshots of the Lightning Network was taken. However, cleaning the data was critical to increase efficiency. The following criteria shows what nodes and edges pass the filter:
 |          Node            |        Edges             |
 |--------------------------|--------------------------|
-
+|Nodes must of been active |Capacity should be greater|
+|at least 30 days since the|than 1,000,000 satoshi.   |
+|the snapshot was taken    |                          |
+|--------------------------|--------------------------|
 
 ## 2. Making an environment for our model:
 We then created an OpenAI gym environment so that our agent could "play on" and train as it "plays the game" or progressively learns.
@@ -72,6 +75,7 @@ Give details on how to install fork and install your project. You can get all of
 # Questions? 
 Please Feel Free To Contact:
 [Vincent Davis](https://github.com/davisv7)
+[Tony Ramirez](tpra223@uky.edu)
 
 Helpful [forum](https://www.reddit.com/r/TheLightningNetwork/) for any additional questions.
 
