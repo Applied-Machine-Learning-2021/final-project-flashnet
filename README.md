@@ -43,7 +43,7 @@ We took hourly snapshots of the nodes and edges of the Lightning Network at a gi
 We then created an OpenAI gym environment so that our agent could "play on" and train as it "plays the game" or progressively learns.
 
 ## 3. Graph Convolutional Network and Deep Graph Library:
-GCN and DGL is our model, add more desc......
+GCN and DGL is our model, our model is fed with data from the actor critic.
 
 ## 4. ActorCritic:
 This is our agent that will perform the act of playing our game. The Actor aspect of the agent makes a decision, and the Critic aspect of the agent determines whether that action was a good one or bad one based on the reward of that action. 
