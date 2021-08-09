@@ -71,7 +71,7 @@ Give details on how to install fork and install your project. You can get all of
 1. Fork this repo
 2. Change directories into your project
 3. On the command line, type `pip3 install requirements.txt`
-4. Download the snapshot zipfile and put in your repo.
+4. Download the snapshot zipfile and place it in your repo.
 5. Change manually in the main.py on how to interact with the enviroment.
    * Snapshot vs. Subgraph 
    * Number of episodes 
@@ -79,6 +79,7 @@ Give details on how to install fork and install your project. You can get all of
    * load_model (reload the model)
    * Budget (How many nodes to add to the node to maximize its betweeness centrality)
 6. run the program 'python3 main.py'
+7. Analyze the results
 # Questions? 
 Please Feel Free To Contact:
 - [Vincent Davis](https://github.com/davisv7)
