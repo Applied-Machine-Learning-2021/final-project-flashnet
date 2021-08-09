@@ -41,6 +41,7 @@ Three months prior the project, a node was activated in the lightning network an
 |          Node            |        Edges             |
 |--------------------------|--------------------------|
 |Nodes must of been active at least 30 days since the the snapshot was taken |Capacity should be greaterthan 1,000,000 satoshi|
+|Nodes must have a degree greater than two | Must not be dissabled nor have null polices|
 
 ## 2. Making an environment for our model:
 We then created an OpenAI gym environment so that our agent could "play on" and train as it "plays the game" or progressively learns.
